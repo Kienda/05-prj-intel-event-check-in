@@ -266,6 +266,17 @@ button .fas {
   margin: 0 2px;
 }
 
+/* Recent attendee list */
+.attendee-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.attendee-list li {
+  list-style: none;
+}
+
 /* Footer */
 .footer {
   text-align: center;
